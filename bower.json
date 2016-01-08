@@ -1,0 +1,27 @@
+{
+  "name": "sms-link",
+  "homepage": "https://github.com/commerceio/sms-link",
+  "authors": [
+    "Daniel Ice <dice@commerce.io>"
+  ],
+  "description": "Javascript library to build SMS links.",
+  "main": "js/sms-link.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "sms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "chai": "~3.4.2"
+  }
+}
